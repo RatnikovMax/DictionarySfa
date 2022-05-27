@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/icon_search"
+        android:title="Поиск"/>
+
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/icon_favorite"
+        android:title="Избранное"/>
+
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/icon_history"
+        android:title="История"/>
+
+</menu>
